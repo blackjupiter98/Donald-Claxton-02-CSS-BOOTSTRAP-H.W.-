@@ -1,0 +1,1 @@
+this be my website, the images in the portfolio page are coded so you can open the images and check them out, all the pages have return links to the home page. I coded this in html and css referencing w3 schools. Thanks for "czech"-ing it out!
